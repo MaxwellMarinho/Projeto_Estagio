@@ -1,0 +1,18 @@
+/* Aplicando alterações próprias do sistema */
+
+main {
+	background-image: url("../img/bg-login.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-size: cover;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	overflow: auto;
+}
+
+.card-login {
+	max-width: 35rem;
+}

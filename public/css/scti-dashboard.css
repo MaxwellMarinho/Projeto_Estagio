@@ -1,0 +1,5 @@
+/* Aplicando alterações próprias do sistema */
+
+textarea {
+	resize: none;
+}
