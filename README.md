@@ -1,9 +1,9 @@
 # Projeto_Estagio
 
-# Laravel
+> Laravel
 
-# composer install
+> composer install
 
-# php artisan migrate
+> php artisan migrate
 
-# create file .env (config DB)
+> create file .env (config DB)
