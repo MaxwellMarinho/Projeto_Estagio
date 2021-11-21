@@ -6,4 +6,4 @@
 
 > php artisan migrate
 
-> create file .env (config DB)
+> rename file .env.example to .env (config DB)
